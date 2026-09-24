@@ -1,0 +1,7 @@
+{
+  "name": "AI時間帯予測ミニバス",
+  "description": "人流予測データを活用した市民向け乗車予約＆リアルタイム運行確認Webアプリ。地域住民や高齢者にも使いやすいユニバーサルデザイン。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
